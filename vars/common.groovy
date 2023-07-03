@@ -1,5 +1,3 @@
-#
-#
 def call(String stageName){
     if ("${stageName}" == "Build")
     {
